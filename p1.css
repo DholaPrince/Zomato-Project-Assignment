@@ -1,0 +1,121 @@
+.main{
+    background-color: beige;
+    border: 2px solid black;
+    width: 980px;
+    height: 600px;
+}
+#p1{
+    /*background:transparent linear-gradient(180deg, #9D0E0E00 0%, #4F0707 100%);*/
+    background-image:linear-gradient(to bottom,rgb(255 255 255), rgb(79 7 7)),url(images/mainimage.jpg);
+    /*background linear-gradient(#9D0E0E00,#4F0707);*/ 
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+    border: 2px solid black;
+    width: 977px;
+    height: 300px;
+}
+#navbar{
+    margin-top: 20px;
+    margin-left: 700px;
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    height: 25px;
+}
+#account{
+    border: 2px solid black;
+}
+#logo{
+    border: 3px solid black;
+    border-radius: 50%;
+    text-align:center;
+    width: 60px;
+    height: 70px;
+    position: relative;
+    margin-left: 450px;
+    color: red;
+    background-color: white;
+}
+#random{
+    text-align: center;
+    color: white;
+}
+.searchbar{
+    margin-left: 280px;
+}
+/*Now From Here Part-2 Is Starting*/
+#p2{
+    background-color: white;
+}
+#f{
+    position: relative;
+    margin-top: -100px;
+    margin-left: 120px;
+    width: 190px;
+    background-color: aliceblue;
+}
+#f1{
+    margin-left: 30px;
+}
+
+#s{
+    position: relative;
+    margin-top: -100px;
+    margin-left: 420px;
+    width: 200px;
+    background-color: aliceblue;
+}
+#s2{
+    margin-left: 330px;
+    margin-top:-90px ;
+}
+
+#t3{
+    margin-left: 640px;
+    margin-top:-90px ;
+}
+#t{
+    position: relative;
+    margin-top: -100px;
+    margin-left: 730px;
+    width: 200px;
+    background-color: aliceblue;
+}
+/*Second Row is Start */
+#fo{
+    position: relative;
+    margin-top: -100px;
+    margin-left: 120px;
+    width: 190px;
+    background-color: aliceblue;
+}
+#f4{
+    margin-left: 30px;
+}
+
+#fi{
+    position: relative;
+    margin-top: -100px;
+    margin-left: 420px;
+    width: 200px;
+    background-color: aliceblue;
+}
+#f5{
+    margin-left: 330px;
+    margin-top:-90px ;
+}
+
+#s6{
+    margin-left: 640px;
+    margin-top:-90px ;
+}
+#si{
+    position: relative;
+    margin-top: -100px;
+    margin-left: 730px;
+    width: 200px;
+    background-color: aliceblue;
+}
